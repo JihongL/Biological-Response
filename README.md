@@ -3,6 +3,7 @@
 - https://www.kaggle.com/c/bioresponse
 - 135th on Public Leaderboard (log loss 0.43545)
 - Binary classification with 1776 columns
+- [view jupyter notebook](http://nbviewer.jupyter.org/github/JihongL/Biological-Response/blob/master/Bio-Response.ipynb)
 
 ### Dataset
 - Molcules and experimental data describing a real biological response
